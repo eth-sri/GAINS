@@ -11,9 +11,8 @@ The project was conducted at the [SRI Lab, Department of Computer Science, ETH Z
 ## Setup instructions
 
 Clone this repository:
-`TODOOOO CHECK command`
 ```bash
-$ git clone https://gitlab.inf.ethz.ch/OU-VECHEV/node-cert.git
+$ git clone https://github.com/eth-sri/GAINS.git
 ```
 Setup and activate the virtual environment as follows:
 ```
