@@ -113,7 +113,7 @@ If you find this work useful for your research, please cite it as:
 @inproceedings{
     zeqiri2023efficient,
     title={Efficient Certified Training and Robustness Verification of Neural {ODE}s},
-    author={Mustafa Zeqiri and Mark Niklas Mueller and Marc Fischer and Martin Vechev},
+    author={Mustafa Zeqiri and Mark Niklas M{\"{u}}ller and Marc Fischer and Martin Vechev},
     booktitle={International Conference on Learning Representations},
     year={2023},
     url={https://openreview.net/forum?id=KyoVpYvWWnK}
